@@ -2,4 +2,4 @@
 
 
 
-![](monkey-selfie.gif)
+![](#head-spinning-htmlcssgsap)
