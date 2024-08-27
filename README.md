@@ -2,4 +2,4 @@
 
 
 
-![](head-gif.gif)
+![](monkey-selfie.gif)
